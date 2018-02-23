@@ -1,0 +1,13 @@
+{
+  "name": "a11y-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Valentin von Guttenberg <greengiraffe@posteo.de>",
+  "license": "MIT",
+  "dependencies": {
+    "pa11y": "^5.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
