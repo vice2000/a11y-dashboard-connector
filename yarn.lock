@@ -147,6 +147,13 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.6:
   version "4.1.11"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.11.tgz#0e8bdfe4d1ddb8854d64e04ea7c00e2a026e5658"
 
+graphite@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/graphite/-/graphite-0.1.1.tgz#6b8b8a47afeac81a32af933859df690f641f64ad"
+  dependencies:
+    lazy-socket "0.0.3"
+    request "2.1.1"
+
 has-flag@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"
@@ -186,6 +193,10 @@ jsonfile@^4.0.0:
   resolved "https://registry.yarnpkg.com/jsonfile/-/jsonfile-4.0.0.tgz#8771aae0799b64076b76640fca058f9c10e33ecb"
   optionalDependencies:
     graceful-fs "^4.1.6"
+
+lazy-socket@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/lazy-socket/-/lazy-socket-0.0.3.tgz#218df9a580f1544d8bb84c3149df047ac0cffd3a"
 
 mime@^1.3.4:
   version "1.6.0"
@@ -307,6 +318,10 @@ readable-stream@^2.2.2:
     safe-buffer "~5.1.1"
     string_decoder "~1.0.3"
     util-deprecate "~1.0.1"
+
+request@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/request/-/request-2.1.1.tgz#5570e0c737d656ebd6d1d3c80aa510d3cf86c6fa"
 
 rimraf@^2.6.1:
   version "2.6.2"

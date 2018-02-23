@@ -5,6 +5,7 @@
   "author": "Valentin von Guttenberg <greengiraffe@posteo.de>",
   "license": "MIT",
   "dependencies": {
+    "graphite": "^0.1.1",
     "pa11y": "^5.0.1"
   },
   "scripts": {
