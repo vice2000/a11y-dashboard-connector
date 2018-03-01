@@ -1,4 +1,5 @@
 const pa11y = require('pa11y')
+const async = require('async')
 const fs = require('fs')
 const graphite = require('graphite')
 
