@@ -4,34 +4,42 @@ const graphite = require('graphite')
 
 const reporter = require('./reporter')
 
-function run (site) {
-  return pa11y(site, {
+exports = module.exports = {}
+
+exports.run = function run (siteName, siteType, url) {
+  return pa11y(url, {
     includeNotices: true,
     includeWarnings: true
   }).then(results => {
-    const processedResults = reporter.results(results)
-    const suffix = site.split('.')[1]
-    saveRawData(results, suffix)
-    sendStats(processedResults)
+    const stats = reporter.stats(results)
+    const topIssues = reporter.topIssuesPerGuideline(results, 3)
+
+    saveRawData(results, siteName)
+    sendStats(siteName, siteType, stats, JSON.stringify([...topIssues]))
   }).catch(err => {
     console.error(err)
   })
 }
 
-function saveRawData (data, suffix) {
-  fs.writeFileSync('report_' + suffix + '.json', JSON.stringify(data, null, 4) + '\n')
+function saveRawData (data, siteName) {
+  fs.writeFileSync('report_' + siteName + '.json', JSON.stringify(data, null, 4) + '\n')
 }
 
-function sendStats (results) {
-  console.log(results)
+function sendStats (siteName, siteType, stats, topIssues) {
+  console.log(stats)
 
   const client = graphite.createClient('plaintext://sitespeed.zeit.de:2003/')
 
   const metrics = {
     test: {
       a11y: {
-        zeit: {
-          results
+        [siteName]: {
+          [siteType]: {
+            stats,
+            topIssues: {
+              topIssues
+            }
+          }
         }
       }
     }
@@ -44,5 +52,3 @@ function sendStats (results) {
   })
   client.end()
 }
-
-module.exports = run

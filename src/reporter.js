@@ -6,7 +6,7 @@ exports = module.exports = {}
  * @param {object} The pa11y results
  * @returns {object} Object containing errorCount, warningCount and noticeCount
  */
-exports.results = results => {
+exports.stats = results => {
   return {
     errorCount: results.issues.filter(issue => issue.type === 'error').length,
     warningCount: results.issues.filter(issue => issue.type === 'warning').length,
