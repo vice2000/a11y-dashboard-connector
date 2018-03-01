@@ -1,26 +1,25 @@
 const pa11y = require('pa11y')
-const async = require('async')
 const fs = require('fs')
 const graphite = require('graphite')
 
 const reporter = require('./reporter')
 
-function run () {
-  pa11y('http://www.zeit.de/index', {
+function run (site) {
+  return pa11y(site, {
     includeNotices: true,
     includeWarnings: true
   }).then(results => {
     const processedResults = reporter.results(results)
-
-    saveRawData(results)
+    const suffix = site.split('.')[1]
+    saveRawData(results, suffix)
     sendStats(processedResults)
   }).catch(err => {
     console.error(err)
   })
 }
 
-function saveRawData (data) {
-  fs.writeFileSync('report.json', JSON.stringify(data, null, 4) + '\n')
+function saveRawData (data, suffix) {
+  fs.writeFileSync('report_' + suffix + '.json', JSON.stringify(data, null, 4) + '\n')
 }
 
 function sendStats (results) {
