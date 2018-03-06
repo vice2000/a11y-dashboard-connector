@@ -7,4 +7,4 @@ Run competetive Accessibility tests and send them to a Graphite db
 - Use pa11y reporter
 - Include article page
 - Command Line Interface (params: which sites, graphite url)
-
+- axe for analyses: reports good parse-able advice (Violation of "color-contrast" with 108 occurrences!)
