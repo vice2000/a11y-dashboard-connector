@@ -13,9 +13,10 @@ exports.run = function run (siteName, siteType, url) {
   }).then(results => {
     const stats = reporter.stats(results)
     const topIssues = reporter.topIssuesPerGuideline(results, 3)
+    const numberOfContrastErrors = reporter.numberOfSpecificIssue(results, 'WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail')
 
     saveRawData(results, siteName)
-    sendStats(siteName, siteType, stats, JSON.stringify([...topIssues]))
+    sendStats(siteName, siteType, stats, JSON.stringify([...topIssues]), numberOfContrastErrors)
   }).catch(err => {
     console.error(err)
   })
@@ -25,8 +26,10 @@ function saveRawData (data, siteName) {
   fs.writeFileSync('report_' + siteName + '.json', JSON.stringify(data, null, 4) + '\n')
 }
 
-function sendStats (siteName, siteType, stats, topIssues) {
+function sendStats (siteName, siteType, stats, topIssues, numberOfContrastErrors) {
   console.log(stats)
+  console.log(topIssues)
+  console.log('numberOfContrastErrors: ' + numberOfContrastErrors)
 
   const client = graphite.createClient('plaintext://sitespeed.zeit.de:2003/')
 
@@ -38,7 +41,8 @@ function sendStats (siteName, siteType, stats, topIssues) {
             stats,
             topIssues: {
               topIssues
-            }
+            },
+            'numberOfContrastErrors': numberOfContrastErrors
           }
         }
       }
