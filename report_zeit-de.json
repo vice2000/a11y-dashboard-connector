@@ -364,7 +364,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81",
-            "context": "<a href=\"http://www.zeit.de/angebote/murakami/index\" itemprop=\"url\"><span itemprop=\"name\">Der neue ...</a>",
+            "context": "<a href=\"http://www.zeit.de/angebote/buchtipp/index\" itemprop=\"url\"><span itemprop=\"name\">Buch-Entd...</a>",
             "message": "Check that the link text combined with programmatically determined link context identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -372,7 +372,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81",
-            "context": "<a href=\"http://www.zeit.de/angebote/buchtipp/index\" itemprop=\"url\"><span itemprop=\"name\">Buch-Entd...</a>",
+            "context": "<a href=\"http://service.zeit.de/forschungskosmos/\" itemprop=\"url\"><span itemprop=\"name\">Forschung...</a>",
             "message": "Check that the link text combined with programmatically determined link context identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -380,23 +380,23 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81",
-            "context": "<a href=\"http://www.zeit.de/campus/angebote/kpmg/index\" itemprop=\"url\"><span itemprop=\"name\">#GameChan...</a>",
+            "context": "<a href=\"http://angebote.zeit.de/goretex/\" itemprop=\"url\"><span itemprop=\"name\">GORE-TEX®...</a>",
             "message": "Check that the link text combined with programmatically determined link context identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
             "selector": "#navigation > nav:nth-child(5) > ul > li:nth-child(18) > a"
         },
         {
-            "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3_F24.F24.FGColour",
-            "context": "<div style=\"color:#000000;width:130px;height:20px;border-radius:10px 10px;background-color:#FFF;font-family:verdana;font-size:12px;font-weight:bold;padding:12px 18px 10px 40px;border:1px solid #EF9125;box-sizing:content-box;\">CrID:&nbsp;138210401094 ...",
-            "message": "Check that this element has an inherited background colour or image to complement the corresponding inline foreground colour.",
-            "type": "warning",
-            "typeCode": 2,
-            "selector": "#crInfoLoc157133044 > div > div:nth-child(2)"
+            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81",
+            "context": "<a href=\"http://angebote.zeit.de/eurowings/\" itemprop=\"url\"><span itemprop=\"name\">Erleben S...</a>",
+            "message": "Check that the link text combined with programmatically determined link context identifies the purpose of the link.",
+            "type": "notice",
+            "typeCode": 3,
+            "selector": "#navigation > nav:nth-child(5) > ul > li:nth-child(19) > a"
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.2",
-            "context": "<iframe id=\"google_ads_iframe_/183/zeitonline/politik/index_1\" title=\"3rd party ad content\" name=\"google_ads_iframe_/183/zeitonline/politik/index_1\" width=\"1000\" height=\"100\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" srcdoc=\"\" s...",
+            "context": "<iframe frameborder=\"0\" src=\"http://tpc.googlesyndication.com/safeframe/1-0-17/html/container.html\" id=\"google_ads_iframe_/183/zeitonline/politik/index_1\" title=\"3rd party ad content\" name=\"\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" width=\"970...",
             "message": "Check that the title attribute of this element contains text that identifies the frame.",
             "type": "notice",
             "typeCode": 3,
@@ -412,7 +412,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-large__combined-link\" title=\"Syrien - Angriffe auf Fluchtkorridor in Ostghuta\" href=\"http://www.zeit.de/politik/ausland/2018-03/syrien-ost-ghuta-russland-rebellen-kaempfe-waffenruhe-fluchtkorridor\">\n                              ...<...",
+            "context": "<a class=\"teaser-large__combined-link\" title=\"Große Koalition - Das komplette Team Merkel\" href=\"http://www.zeit.de/politik/deutschland/2018-02/grosse-koalition-kabinett-angela-merkel-minister\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -428,7 +428,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Syrien - Angriffe auf Fluchtkorridor in Ostghuta\" href=\"http://www.zeit.de/politik/ausland/2018-03/syrien-ost-ghuta-russland-rebellen-kaempfe-waffenruhe-fluchtkorridor\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Große Koalition - Das komplette Team Merkel\" href=\"http://www.zeit.de/politik/deutschland/2018-02/grosse-koalition-kabinett-angela-merkel-minister\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -436,7 +436,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-large__media-item\" data-alt=\"Syrien: Angriffe auf Fluchtkorridor in Ostghuta\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/ost-ghuta/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland/2018-03/ost-ghu...",
+            "context": "<img class=\"teaser-large__media-item\" data-alt=\"Große Koalition: Das komplette Team Merkel\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/grosse-koalition-kabinett-angela-merkel-minister/wide\" data-ratio=\"1.77777777778\" src=\"https://img.z...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -444,7 +444,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-large__media-item\" data-alt=\"Syrien: Angriffe auf Fluchtkorridor in Ostghuta\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/ost-ghuta/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland/2018-03/ost-ghu...",
+            "context": "<img class=\"teaser-large__media-item\" data-alt=\"Große Koalition: Das komplette Team Merkel\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/grosse-koalition-kabinett-angela-merkel-minister/wide\" data-ratio=\"1.77777777778\" src=\"https://img.z...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -452,7 +452,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-large__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/syrien-ost-ghuta-russland-rebellen-kaempfe-waffenruhe-fluchtkorridor#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">42 Komme...",
+            "context": "<a class=\"teaser-large__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-02/grosse-koalition-kabinett-angela-merkel-minister#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">561 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -460,7 +460,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Cyberattacke - Hackerangriff auf Bundesregierung dauert noch an\" href=\"http://www.zeit.de/politik/deutschland/2018-03/cyber-attacke-hackerangriff-parlamentarisches-kontrollgremium-armin-schuster-reaktionen\">\n                       ...",
+            "context": "<a class=\"\" title=\"Nordkorea - Der Triumph gehört vorerst Kim\" href=\"http://www.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-kim-jong-un-gipfeltreffen\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -468,7 +468,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Cyberattacke: Hackerangriff auf Bundesregierung dauert noch an\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/parlamentarisches-kontrollgremium/wide\" data-ratio=\"1.77777777778\" src=\"https://...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Nordkorea: Der Triumph gehört vorerst Kim\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/trump-nord-korea/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland/2018-03/trump-...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -476,7 +476,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Cyberattacke: Hackerangriff auf Bundesregierung dauert noch an\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/parlamentarisches-kontrollgremium/wide\" data-ratio=\"1.77777777778\" src=\"https://...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Nordkorea: Der Triumph gehört vorerst Kim\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/trump-nord-korea/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland/2018-03/trump-...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -484,7 +484,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Cyberattacke - Hackerangriff auf Bundesregierung dauert noch an\" href=\"http://www.zeit.de/politik/deutschland/2018-03/cyber-attacke-hackerangriff-parlamentarisches-kontrollgremium-armin-schuster-reaktione...",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Nordkorea - Der Triumph gehört vorerst Kim\" href=\"http://www.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-kim-jong-un-gipfeltreffen\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -500,7 +500,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/cyber-attacke-hackerangriff-parlamentarisches-kontrollgremium-armin-schuster-reaktionen#comments\" data-ct-label=\"comments\" title=\"Kommen...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-kim-jong-un-gipfeltreffen#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">87 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -508,7 +508,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Moskau - Russland verweigert Beitragszahlung für Europarat\" href=\"http://www.zeit.de/politik/ausland/2018-03/moskau-russland-europarat-beitrag-zahlungen-rueckstand\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Mevlüt Çavuşoğlu - &quot;Man kann die Türkei nicht mehr behandeln wie vor 20 Jahren&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-03/mevluet-cavusoglu-deutsch-tuerkische-beziehungen-deniz-yuecel\">\n                        <im...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -516,7 +516,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Moskau: Russland verweigert Beitragszahlung für Europarat\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/russland-europarat/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausl...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Mevlüt Çavuşoğlu: &quot;Man kann die Türkei nicht mehr behandeln wie vor 20 Jahren&quot;\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/mevluet-cavusoglu/wide\" data-ratio=\"1.77777777778\" src=\"ht...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -524,7 +524,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Moskau: Russland verweigert Beitragszahlung für Europarat\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/russland-europarat/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausl...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Mevlüt Çavuşoğlu: &quot;Man kann die Türkei nicht mehr behandeln wie vor 20 Jahren&quot;\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/mevluet-cavusoglu/wide\" data-ratio=\"1.77777777778\" src=\"ht...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -532,7 +532,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Moskau - Russland verweigert Beitragszahlung für Europarat\" href=\"http://www.zeit.de/politik/ausland/2018-03/moskau-russland-europarat-beitrag-zahlungen-rueckstand\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Mevlüt Çavuşoğlu - &quot;Man kann die Türkei nicht mehr behandeln wie vor 20 Jahren&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-03/mevluet-cavusoglu-deutsch-tuerkische-beziehungen-deniz-yuecel\">\n...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -548,7 +548,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/moskau-russland-europarat-beitrag-zahlungen-rueckstand#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">246 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/mevluet-cavusoglu-deutsch-tuerkische-beziehungen-deniz-yuecel#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">133 Kommentare<...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -556,7 +556,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Deutscher Bundestag - Schlecht informierte Kontrolleure\" href=\"http://www.zeit.de/politik/deutschland/2018-03/deutscher-bundestag-hackerangriff-sofacy-group-aufklaerung-parlamentarier\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Nordkorea - &quot;Wie ein Wunder&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-kim-jong-un-besuch-reaktionen\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -564,7 +564,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Deutscher Bundestag: Schlecht informierte Kontrolleure\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/bundesregierung-hackerangriff-kontrolle/wide\" data-ratio=\"1.77777777778\" src=\"https://im...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Nordkorea: &quot;Wie ein Wunder&quot;\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-moon-jae/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland/201...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -572,7 +572,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Deutscher Bundestag: Schlecht informierte Kontrolleure\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/bundesregierung-hackerangriff-kontrolle/wide\" data-ratio=\"1.77777777778\" src=\"https://im...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Nordkorea: &quot;Wie ein Wunder&quot;\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-moon-jae/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland/201...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -580,7 +580,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Deutscher Bundestag - Schlecht informierte Kontrolleure\" href=\"http://www.zeit.de/politik/deutschland/2018-03/deutscher-bundestag-hackerangriff-sofacy-group-aufklaerung-parlamentarier\">\n                  ...",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Nordkorea - &quot;Wie ein Wunder&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-kim-jong-un-besuch-reaktionen\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -596,7 +596,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/deutscher-bundestag-hackerangriff-sofacy-group-aufklaerung-parlamentarier#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\"...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/nordkorea-donald-trump-kim-jong-un-besuch-reaktionen#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">81 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -604,7 +604,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Terroranschlag - Fall Amri wird im Bundestag untersucht\" href=\"http://www.zeit.de/politik/deutschland/2018-03/terroranschlag-anis-amri-berlin-untersuchungsausschuss-afd\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Parlamentswahl in Italien - Dagegenhalten, aber smart bleiben\" href=\"http://www.zeit.de/2018/11/italien-parlamentswahl-populismus-fuenf-sterne-bewegung\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -612,7 +612,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Terroranschlag: Fall Amri wird im Bundestag untersucht\" data-src=\"https://img.zeit.de/news/2018-03/01/einsetzung-von-amri-untersuchungsausschuss-beschlossen-180228-99-284481-image.jpeg/wide\" data-ratio=...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Parlamentswahl in Italien: Dagegenhalten, aber smart bleiben\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/italien-parlamentswahl-populismus-fuenf-sterne-bewegung-di-maio/wide\" data-ratio=\"1.77...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -620,7 +620,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Terroranschlag: Fall Amri wird im Bundestag untersucht\" data-src=\"https://img.zeit.de/news/2018-03/01/einsetzung-von-amri-untersuchungsausschuss-beschlossen-180228-99-284481-image.jpeg/wide\" data-ratio=...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Parlamentswahl in Italien: Dagegenhalten, aber smart bleiben\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/italien-parlamentswahl-populismus-fuenf-sterne-bewegung-di-maio/wide\" data-ratio=\"1.77...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -628,7 +628,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Terroranschlag - Fall Amri wird im Bundestag untersucht\" href=\"http://www.zeit.de/politik/deutschland/2018-03/terroranschlag-anis-amri-berlin-untersuchungsausschuss-afd\">\n                              ......",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Parlamentswahl in Italien - Dagegenhalten, aber smart bleiben\" href=\"http://www.zeit.de/2018/11/italien-parlamentswahl-populismus-fuenf-sterne-bewegung\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -644,7 +644,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/terroranschlag-anis-amri-berlin-untersuchungsausschuss-afd#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">63 Kommentare<...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/2018/11/italien-parlamentswahl-populismus-fuenf-sterne-bewegung#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">33 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -652,7 +652,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Russland - Putin präsentiert neue Atomwaffen\" href=\"http://www.zeit.de/politik/ausland/2018-03/russland-wladimir-putin-rede-raketenabwehr-praesidentschaftswahl-ziele\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"SPD - Olaf Scholz übernimmt Finanzministerium\" href=\"http://www.zeit.de/politik/deutschland/2018-03/spd-politiker-heil-wird-laut-medienberichten-bundesarbeitsminister\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -660,7 +660,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Russland: Putin präsentiert neue Atomwaffen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/russland-wladimir-putin-rede-praesidentschaftswahl-ziele/wide\" data-ratio=\"1.77777777778\" src=\"https://...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"SPD: Olaf Scholz übernimmt Finanzministerium\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-olaf-scholz/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deutschland/2018...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -668,7 +668,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Russland: Putin präsentiert neue Atomwaffen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/russland-wladimir-putin-rede-praesidentschaftswahl-ziele/wide\" data-ratio=\"1.77777777778\" src=\"https://...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"SPD: Olaf Scholz übernimmt Finanzministerium\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-olaf-scholz/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deutschland/2018...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -676,7 +676,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Russland - Putin präsentiert neue Atomwaffen\" href=\"http://www.zeit.de/politik/ausland/2018-03/russland-wladimir-putin-rede-raketenabwehr-praesidentschaftswahl-ziele\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"SPD - Olaf Scholz übernimmt Finanzministerium\" href=\"http://www.zeit.de/politik/deutschland/2018-03/spd-politiker-heil-wird-laut-medienberichten-bundesarbeitsminister\">\n                              ...</...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -692,7 +692,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/russland-wladimir-putin-rede-raketenabwehr-praesidentschaftswahl-ziele#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">729 Ko...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/spd-politiker-heil-wird-laut-medienberichten-bundesarbeitsminister#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">412 Ko...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -700,7 +700,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Wahlkampf in Italien - Kein Platz für die Mafia\" href=\"http://www.zeit.de/politik/ausland/2018-02/wahlkampf-italien-mafia-einfluss-parteien\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Waffenhandel - Deutschland exportiert wieder mehr Kleinwaffen\" href=\"http://www.zeit.de/politik/deutschland/2018-03/waffenhandel-kleinwaffen-exporte-deutschland\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -708,7 +708,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Wahlkampf in Italien: Kein Platz für die Mafia\" data-src=\"https://img.zeit.de/politik/ausland/2018-02/wahlkampf-italien-mafia-einfluss/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/a...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Waffenhandel: Deutschland exportiert wieder mehr Kleinwaffen\" data-src=\"https://img.zeit.de/wirtschaft/2018-03/sig-sauer-usa/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/wirtschaft/2018-03/...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -716,7 +716,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Wahlkampf in Italien: Kein Platz für die Mafia\" data-src=\"https://img.zeit.de/politik/ausland/2018-02/wahlkampf-italien-mafia-einfluss/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/a...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Waffenhandel: Deutschland exportiert wieder mehr Kleinwaffen\" data-src=\"https://img.zeit.de/wirtschaft/2018-03/sig-sauer-usa/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/wirtschaft/2018-03/...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -724,7 +724,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Wahlkampf in Italien - Kein Platz für die Mafia\" href=\"http://www.zeit.de/politik/ausland/2018-02/wahlkampf-italien-mafia-einfluss-parteien\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Waffenhandel - Deutschland exportiert wieder mehr Kleinwaffen\" href=\"http://www.zeit.de/politik/deutschland/2018-03/waffenhandel-kleinwaffen-exporte-deutschland\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -740,7 +740,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-02/wahlkampf-italien-mafia-einfluss-parteien#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">60 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/waffenhandel-kleinwaffen-exporte-deutschland#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">98 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -748,7 +748,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Saarland - Tobias Hans ist neuer saarländischer Ministerpräsident\" href=\"http://www.zeit.de/politik/deutschland/2018-03/saarland-tobias-hans-cdu-neuer-ministerpraesident\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Außenpolitik - Merkel und Maas in der globalen Kampfzone\" href=\"http://www.zeit.de/politik/deutschland/2018-03/aussenpolitik-deutschland-angela-merkel-usa-diplomatie-5vor8\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -756,7 +756,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Saarland: Tobias Hans ist neuer saarländischer Ministerpräsident\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/saarland-tobias-hans-cdu-neuer-ministerpraesident-2/wide\" data-ratio=\"1.777777...",
+            "context": "<img class=\"teaser-small-column__media-item\" data-alt=\"Michael Thumann\" data-src=\"https://img.zeit.de/autoren/T/Michael_Thumann/michael-thumann-2/square\" data-ratio=\"1.0\" src=\"https://img.zeit.de/autoren/T/Michael_Thumann/michael-thumann-2/square__10...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -764,15 +764,23 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Saarland: Tobias Hans ist neuer saarländischer Ministerpräsident\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/saarland-tobias-hans-cdu-neuer-ministerpraesident-2/wide\" data-ratio=\"1.777777...",
+            "context": "<img class=\"teaser-small-column__media-item\" data-alt=\"Michael Thumann\" data-src=\"https://img.zeit.de/autoren/T/Michael_Thumann/michael-thumann-2/square\" data-ratio=\"1.0\" src=\"https://img.zeit.de/autoren/T/Michael_Thumann/michael-thumann-2/square__10...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
             "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(9) > figure > div > a > img"
         },
         {
+            "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+            "context": "<div class=\"teaser-small-column__series-label teaser-small-column__series-label--zon\">Fünf vor acht</div>",
+            "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 4.34:1. Recommendation: change background to #f5f5f2.",
+            "type": "error",
+            "typeCode": 1,
+            "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(9) > div > div:nth-child(1)"
+        },
+        {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Saarland - Tobias Hans ist neuer saarländischer Ministerpräsident\" href=\"http://www.zeit.de/politik/deutschland/2018-03/saarland-tobias-hans-cdu-neuer-ministerpraesident\">\n                              .....",
+            "context": "<a class=\"teaser-small-column__combined-link\" title=\"Außenpolitik - Merkel und Maas in der globalen Kampfzone\" href=\"http://www.zeit.de/politik/deutschland/2018-03/aussenpolitik-deutschland-angela-merkel-usa-diplomatie-5vor8\">\n                       ...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -787,16 +795,32 @@
             "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(9) > div > h2 > a > span:nth-child(2)"
         },
         {
-            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/saarland-tobias-hans-cdu-neuer-ministerpraesident#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">48 Kommentare</a>",
-            "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
-            "type": "notice",
-            "typeCode": 3,
-            "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(9) > div > div > a"
+            "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+            "context": "<span class=\"teaser-small-column__byline\">    Eine Kolumne von           ...</span>",
+            "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 4.34:1. Recommendation: change background to #f5f5f2.",
+            "type": "error",
+            "typeCode": 1,
+            "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(9) > div > div:nth-child(4) > span"
+        },
+        {
+            "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
+            "context": "<a class=\"teaser-small-column__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/aussenpolitik-deutschland-angela-merkel-usa-diplomatie-5vor8#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">296 K...",
+            "message": "This element has insufficient contrast at this conformance level. Expected a contrast ratio of at least 4.5:1, but text in this element has a contrast ratio of 4.34:1. Recommendation: change background to #f5f5f2.",
+            "type": "error",
+            "typeCode": 1,
+            "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(9) > div > div:nth-child(4) > a"
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"CSU - &quot;Wir fühlten uns alleingelassen&quot;\" href=\"http://www.zeit.de/politik/deutschland/2018-02/csu-basis-grosse-koalition-problem-angela-merkel\">\n                        <img c...</a>",
+            "context": "<a class=\"teaser-small-column__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/aussenpolitik-deutschland-angela-merkel-usa-diplomatie-5vor8#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">296 K...",
+            "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
+            "type": "notice",
+            "typeCode": 3,
+            "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(9) > div > div:nth-child(4) > a"
+        },
+        {
+            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
+            "context": "<a class=\"\" title=\"Nordkorea - Trump will Nordkoreas Machthaber Kim treffen\" href=\"http://www.zeit.de/politik/ausland/2018-03/us-praesident-trump-und-nordkoreas-machthaber-kim-zu-treffen-bereit\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -804,7 +828,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"CSU: &quot;Wir fühlten uns alleingelassen&quot;\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/csu-basis-grosse-koalition-problem-001/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.d...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Nordkorea: Trump will Nordkoreas Machthaber Kim treffen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/trump-kim-treffen/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -812,7 +836,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"CSU: &quot;Wir fühlten uns alleingelassen&quot;\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/csu-basis-grosse-koalition-problem-001/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.d...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Nordkorea: Trump will Nordkoreas Machthaber Kim treffen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/trump-kim-treffen/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausland...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -820,7 +844,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"CSU - &quot;Wir fühlten uns alleingelassen&quot;\" href=\"http://www.zeit.de/politik/deutschland/2018-02/csu-basis-grosse-koalition-problem-angela-merkel\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Nordkorea - Trump will Nordkoreas Machthaber Kim treffen\" href=\"http://www.zeit.de/politik/ausland/2018-03/us-praesident-trump-und-nordkoreas-machthaber-kim-zu-treffen-bereit\">\n                           ...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -836,15 +860,15 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-02/csu-basis-grosse-koalition-problem-angela-merkel#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">478 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/us-praesident-trump-und-nordkoreas-machthaber-kim-zu-treffen-bereit#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">311 Komme...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
-            "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(10) > div > div:nth-child(4) > a"
+            "selector": "#main > div:nth-child(1) > div:nth-child(1) > article:nth-child(10) > div > div > a"
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"USA  - Trump will Mindestalter beim Waffenkauf erhöhen\" href=\"http://www.zeit.de/politik/ausland/2018-03/usa-donald-trump-waffengesetze-ueberpruefung-waffenkauf\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"CPTPP - Transpazifisches Freihandelsabkommen unterzeichnet\" href=\"http://www.zeit.de/politik/ausland/2018-03/cptpp-freihandelsabkommen-pazifik-usa\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -852,7 +876,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"USA : Trump will Mindestalter beim Waffenkauf erhöhen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/trump-usa-waffengesetz/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausl...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"CPTPP: Transpazifisches Freihandelsabkommen unterzeichnet\" data-src=\"https://img.zeit.de/wirtschaft/2018-03/cptpp/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/wirtschaft/2018-03/cptpp/wide_...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -860,7 +884,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"USA : Trump will Mindestalter beim Waffenkauf erhöhen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/trump-usa-waffengesetz/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/ausl...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"CPTPP: Transpazifisches Freihandelsabkommen unterzeichnet\" data-src=\"https://img.zeit.de/wirtschaft/2018-03/cptpp/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/wirtschaft/2018-03/cptpp/wide_...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -868,7 +892,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"USA  - Trump will Mindestalter beim Waffenkauf erhöhen\" href=\"http://www.zeit.de/politik/ausland/2018-03/usa-donald-trump-waffengesetze-ueberpruefung-waffenkauf\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"CPTPP - Transpazifisches Freihandelsabkommen unterzeichnet\" href=\"http://www.zeit.de/politik/ausland/2018-03/cptpp-freihandelsabkommen-pazifik-usa\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -884,7 +908,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/usa-donald-trump-waffengesetze-ueberpruefung-waffenkauf#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">208 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/cptpp-freihandelsabkommen-pazifik-usa#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">64 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -892,7 +916,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"US-Waffengesetze - Junge Rebellen\" href=\"http://www.zeit.de/politik/ausland/2018-02/us-waffengesetze-verschaerfung-reformen-amoklauf-parkland\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Sigmar Gabriel - Er hat sich verloren\" href=\"http://www.zeit.de/politik/deutschland/2018-03/sigmar-gabriel-spd-grosse-koalition-bundesregierung-heiko-maas\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -900,7 +924,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"US-Waffengesetze: Junge Rebellen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/us-waffengesetze-verschaerfung-reformen-rebellen/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Sigmar Gabriel: Er hat sich verloren\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/sigmar-gabriel-spd-2/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deutschland/2018-03...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -908,7 +932,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"US-Waffengesetze: Junge Rebellen\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/us-waffengesetze-verschaerfung-reformen-rebellen/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Sigmar Gabriel: Er hat sich verloren\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/sigmar-gabriel-spd-2/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deutschland/2018-03...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -916,7 +940,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"US-Waffengesetze - Junge Rebellen\" href=\"http://www.zeit.de/politik/ausland/2018-02/us-waffengesetze-verschaerfung-reformen-amoklauf-parkland\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Sigmar Gabriel - Er hat sich verloren\" href=\"http://www.zeit.de/politik/deutschland/2018-03/sigmar-gabriel-spd-grosse-koalition-bundesregierung-heiko-maas\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -932,7 +956,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-02/us-waffengesetze-verschaerfung-reformen-amoklauf-parkland#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">209 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/sigmar-gabriel-spd-grosse-koalition-bundesregierung-heiko-maas#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">336 Kommen...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -940,7 +964,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"US-Justizminister - Sessions wehrt sich gegen Trump-Kritik\" href=\"http://www.zeit.de/politik/ausland/2018-03/us-justizminister-trump-attackiert-sessions\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"SPD - Diese Neuköllnerin ist bald überall\" href=\"http://www.zeit.de/politik/deutschland/2018-03/spd-grosse-koalition-personal-heiko-maas-katharina-barley\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -948,7 +972,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"US-Justizminister: Sessions wehrt sich gegen Trump-Kritik\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/jeff-sessions-kritik-donald-trump/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit....",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"SPD: Diese Neuköllnerin ist bald überall\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/franziska-giffey-spd-neukoelln/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deuts...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -956,7 +980,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"US-Justizminister: Sessions wehrt sich gegen Trump-Kritik\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/jeff-sessions-kritik-donald-trump/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit....",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"SPD: Diese Neuköllnerin ist bald überall\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/franziska-giffey-spd-neukoelln/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deuts...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -964,7 +988,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"US-Justizminister - Sessions wehrt sich gegen Trump-Kritik\" href=\"http://www.zeit.de/politik/ausland/2018-03/us-justizminister-trump-attackiert-sessions\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"SPD - Diese Neuköllnerin ist bald überall\" href=\"http://www.zeit.de/politik/deutschland/2018-03/spd-grosse-koalition-personal-heiko-maas-katharina-barley\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -980,7 +1004,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/us-justizminister-trump-attackiert-sessions#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">109 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/spd-grosse-koalition-personal-heiko-maas-katharina-barley#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">236 Kommentare<...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -996,7 +1020,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-buzz__combined-link\" title=\"Flüchtlingskrise - Ein Dorf macht dicht\" href=\"http://www.zeit.de/politik/ausland/2018-02/fluechtlingskrise-italien-parlament-wahl-rassismus-fischerdorf-ablehnung\">\n                              ...</a>",
+            "context": "<a class=\"teaser-buzz__combined-link\" title=\"SPD-Mitgliederentscheid - Die Basis hat entschieden\" href=\"http://www.zeit.de/politik/deutschland/2018-03/spd-mitgliederentscheid-grosse-koalition-live\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1012,7 +1036,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-buzz__combined-link\" title=\"Demokratie in den USA - &quot;Wir haben Glück, dass Trump so inkompetent ist&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-02/demokratie-usa-donald-trump-daniel-ziblatt-harvard-professor\">\n         ...",
+            "context": "<a class=\"teaser-buzz__combined-link\" title=\"Kevin Kühnert - &quot;Wir müssen den exorbitant Vermögenden was wegnehmen&quot;\" href=\"http://www.zeit.de/politik/deutschland/2018-03/kevin-kuehnert-jusos-spd-reichensteuer-afd-ostdeutschland-interview\">\n ...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1028,7 +1052,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-buzz__combined-link\" title=\"Deniz Yücel - Özdemir rechnet in Bundestagsdebatte mit AfD ab\" href=\"http://www.zeit.de/politik/deutschland/2018-02/deniz-yuecel-afd-bundestag-cem-oezdemir-rede\">\n                              ...</a>",
+            "context": "<a class=\"teaser-buzz__combined-link\" title=\"Italien - Unregierbar und verloren\" href=\"http://www.zeit.de/politik/ausland/2018-03/italien-wahl-migration-europaeische-union\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1060,7 +1084,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.2",
-            "context": "<iframe id=\"google_ads_iframe_/183/zeitonline/politik/index_3\" title=\"3rd party ad content\" name=\"google_ads_iframe_/183/zeitonline/politik/index_3\" width=\"300\" height=\"250\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" srcdoc=\"\" st...",
+            "context": "<iframe id=\"google_ads_iframe_/183/zeitonline/politik/index_3\" title=\"3rd party ad content\" name=\"google_ads_iframe_/183/zeitonline/politik/index_3\" width=\"300\" height=\"300\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" srcdoc=\"\" st...",
             "message": "Check that the title attribute of this element contains text that identifies the frame.",
             "type": "notice",
             "typeCode": 3,
@@ -1068,7 +1092,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Große Koalition - Auf dem Weg in eine neue Regierung\" href=\"http://www.zeit.de/thema/grosse-koalition\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Große Koalition - Das Kabinett steht\" href=\"http://www.zeit.de/thema/grosse-koalition\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1076,7 +1100,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small-minor__media-item\" data-alt=\"Große Koalition: Auf dem Weg in eine neue Regierung\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/grosse-koalition-thema-2/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/po...",
+            "context": "<img class=\"teaser-small-minor__media-item\" data-alt=\"Große Koalition: Das Kabinett steht\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/thema-grosse-koalition/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deutschland/...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -1084,7 +1108,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small-minor__media-item\" data-alt=\"Große Koalition: Auf dem Weg in eine neue Regierung\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/grosse-koalition-thema-2/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/po...",
+            "context": "<img class=\"teaser-small-minor__media-item\" data-alt=\"Große Koalition: Das Kabinett steht\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/thema-grosse-koalition/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit.de/politik/deutschland/...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1092,7 +1116,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small-minor__combined-link\" title=\"Große Koalition - Auf dem Weg in eine neue Regierung\" href=\"http://www.zeit.de/thema/grosse-koalition\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small-minor__combined-link\" title=\"Große Koalition - Das Kabinett steht\" href=\"http://www.zeit.de/thema/grosse-koalition\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1108,7 +1132,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-square__media-link\" title=\"SPD - Wechsel an der Parteispitze\" href=\"http://www.zeit.de/thema/spd\">\n                        <img c...</a>",
+            "context": "<a class=\"teaser-square__media-link\" title=\"SPD - Aufstellung für die große Koalition\" href=\"http://www.zeit.de/thema/spd\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1116,7 +1140,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-square__media-item\" data-alt=\"SPD: Wechsel an der Parteispitze\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/spd-andrea-nahles-header/square\" data-ratio=\"1.0\" src=\"https://img.zeit.de/politik/deutschland/2018-02/spd-an...",
+            "context": "<img class=\"teaser-square__media-item\" data-alt=\"SPD: Aufstellung für die große Koalition\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-thema/square\" data-ratio=\"1.0\" src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-thema/squ...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -1124,7 +1148,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-square__media-item\" data-alt=\"SPD: Wechsel an der Parteispitze\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/spd-andrea-nahles-header/square\" data-ratio=\"1.0\" src=\"https://img.zeit.de/politik/deutschland/2018-02/spd-an...",
+            "context": "<img class=\"teaser-square__media-item\" data-alt=\"SPD: Aufstellung für die große Koalition\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-thema/square\" data-ratio=\"1.0\" src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-thema/squ...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1132,7 +1156,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-square__combined-link\" title=\"SPD - Wechsel an der Parteispitze\" href=\"http://www.zeit.de/thema/spd\">\n                              ...</a>",
+            "context": "<a class=\"teaser-square__combined-link\" title=\"SPD - Aufstellung für die große Koalition\" href=\"http://www.zeit.de/thema/spd\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1156,7 +1180,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3.G145.Abs",
-            "context": "<span class=\"teaser-square__title\">Wechsel an der Parteispitze</span>",
+            "context": "<span class=\"teaser-square__title\">Aufstellung für die große Koali...</span>",
             "message": "This element is absolutely positioned and the background color can not be determined. Ensure the contrast ratio between the text and all covered parts of the background are at least 3:1.",
             "type": "warning",
             "typeCode": 2,
@@ -1169,30 +1193,6 @@
             "type": "notice",
             "typeCode": 3,
             "selector": "#main > div:nth-child(1) > div:nth-child(2) > article:nth-child(4) > div > a"
-        },
-        {
-            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Alternative für Deutschland - Die Neuen vom rechten Rand\" href=\"http://www.zeit.de/thema/alternative-fuer-deutschland\">\n                        <img c...</a>",
-            "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
-            "type": "notice",
-            "typeCode": 3,
-            "selector": "#main > div:nth-child(1) > div:nth-child(2) > article:nth-child(5) > figure > div > a"
-        },
-        {
-            "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small-minor__media-item\" data-alt=\"Alternative für Deutschland: Die Neuen vom rechten Rand\" data-src=\"https://img.zeit.de/politik/deutschland/2017-12/alternative-fuer-deutschland-thema/wide\" data-ratio=\"1.77777777778\" src=\"https://...",
-            "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
-            "type": "notice",
-            "typeCode": 3,
-            "selector": "#main > div:nth-child(1) > div:nth-child(2) > article:nth-child(5) > figure > div > a > img"
-        },
-        {
-            "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small-minor__media-item\" data-alt=\"Alternative für Deutschland: Die Neuen vom rechten Rand\" data-src=\"https://img.zeit.de/politik/deutschland/2017-12/alternative-fuer-deutschland-thema/wide\" data-ratio=\"1.77777777778\" src=\"https://...",
-            "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
-            "type": "notice",
-            "typeCode": 3,
-            "selector": "#main > div:nth-child(1) > div:nth-child(2) > article:nth-child(5) > figure > div > a > img"
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
@@ -1364,7 +1364,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Diesel-Urteil - Verbraucherschützer fordern mehr Druck auf Autohersteller\" href=\"http://www.zeit.de/politik/deutschland/2018-03/diesel-urteil-verbraucherschuetzer-merkel-autobauer\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"SPD-Mitgliederentscheid  - Der Mann der Stunde\" href=\"http://www.zeit.de/2018/11/spd-mitgliederentscheid-konsequenzen-neue-linke-kevin-kuehnert\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1372,7 +1372,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Diesel-Urteil: Verbraucherschützer fordern mehr Druck auf Autohersteller\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/verbraucherschuetzer-diesel-klaus-mueller-hendricks/wide\" data-ratio=\"...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"SPD-Mitgliederentscheid : Der Mann der Stunde\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-mitgliederentscheid-konsequenzen-neue-linke-kevin-kuehnert-geschlossen/wide\" data-ratio=\"1.77...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -1380,7 +1380,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Diesel-Urteil: Verbraucherschützer fordern mehr Druck auf Autohersteller\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/verbraucherschuetzer-diesel-klaus-mueller-hendricks/wide\" data-ratio=\"...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"SPD-Mitgliederentscheid : Der Mann der Stunde\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/spd-mitgliederentscheid-konsequenzen-neue-linke-kevin-kuehnert-geschlossen/wide\" data-ratio=\"1.77...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1388,7 +1388,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Diesel-Urteil - Verbraucherschützer fordern mehr Druck auf Autohersteller\" href=\"http://www.zeit.de/politik/deutschland/2018-03/diesel-urteil-verbraucherschuetzer-merkel-autobauer\">\n                      ...",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"SPD-Mitgliederentscheid  - Der Mann der Stunde\" href=\"http://www.zeit.de/2018/11/spd-mitgliederentscheid-konsequenzen-neue-linke-kevin-kuehnert\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1404,7 +1404,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/diesel-urteil-verbraucherschuetzer-merkel-autobauer#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">64 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/2018/11/spd-mitgliederentscheid-konsequenzen-neue-linke-kevin-kuehnert#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">72 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1452,7 +1452,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Spionage - Oppositionspolitiker fordern Aufklärung über Hackerangriff\" href=\"http://www.zeit.de/politik/deutschland/2018-02/spionage-hackerangriff-bundesregierung-opposition-aufklaerung\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Gleichberechtigung - Frauenquote für den Bundestag?\" href=\"http://www.zeit.de/politik/deutschland/2018-03/gleichberechtigung-frauenquote-parlamente-katarina-barley-annegret-kramp-karrenbauer\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1460,7 +1460,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Spionage: Oppositionspolitiker fordern Aufklärung über Hackerangriff\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/konstantin-von-notz/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Gleichberechtigung: Frauenquote für den Bundestag?\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/gleichberechtigung-frauenquote-parlamente/wide\" data-ratio=\"1.77777777778\" src=\"https://img....",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -1468,7 +1468,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Spionage: Oppositionspolitiker fordern Aufklärung über Hackerangriff\" data-src=\"https://img.zeit.de/politik/deutschland/2018-02/konstantin-von-notz/wide\" data-ratio=\"1.77777777778\" src=\"https://img.zeit...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Gleichberechtigung: Frauenquote für den Bundestag?\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/gleichberechtigung-frauenquote-parlamente/wide\" data-ratio=\"1.77777777778\" src=\"https://img....",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1476,7 +1476,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Spionage - Oppositionspolitiker fordern Aufklärung über Hackerangriff\" href=\"http://www.zeit.de/politik/deutschland/2018-02/spionage-hackerangriff-bundesregierung-opposition-aufklaerung\">\n                ...",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Gleichberechtigung - Frauenquote für den Bundestag?\" href=\"http://www.zeit.de/politik/deutschland/2018-03/gleichberechtigung-frauenquote-parlamente-katarina-barley-annegret-kramp-karrenbauer\">\n           ...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1492,7 +1492,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-02/spionage-hackerangriff-bundesregierung-opposition-aufklaerung#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">544 Komment...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/gleichberechtigung-frauenquote-parlamente-katarina-barley-annegret-kramp-karrenbauer#comments\" data-ct-label=\"comments\" title=\"Kommentar...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1500,7 +1500,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Anschlag auf den Berliner Weihnachtsmarkt - Ausschuss will auch mit Angehörigen der Opfer sprechen\" href=\"http://www.zeit.de/politik/deutschland/2018-02/anschlag-berliner-weihnachtsmarkt-bundestagsuntersuchungsausschuss-angehoerige...",
+            "context": "<a class=\"\" title=\"Die Grünen - &quot;Die junge Frau Baerbock verhandelt Europa&quot;\" href=\"http://www.zeit.de/politik/deutschland/2018-03/gruenen-annalena-baerbock-vorsitzende-weltfrauentag-sexismus\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1508,7 +1508,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G94.Image",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Anschlag auf den Berliner Weihnachtsmarkt: Ausschuss will auch mit Angehörigen der Opfer sprechen\" data-src=\"https://img.zeit.de/gesellschaft/zeitgeschehen/2018-02/bundestags-untersuchungsausschuss-brei...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Die Grünen: &quot;Die junge Frau Baerbock verhandelt Europa&quot;\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/annalena-baerbock-buendnis-90-die-gruenen/wide\" data-ratio=\"1.77777777778\" sr...",
             "message": "Ensure that the img element's alt text serves the same purpose and presents the same information as the image.",
             "type": "notice",
             "typeCode": 3,
@@ -1516,7 +1516,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Anschlag auf den Berliner Weihnachtsmarkt: Ausschuss will auch mit Angehörigen der Opfer sprechen\" data-src=\"https://img.zeit.de/gesellschaft/zeitgeschehen/2018-02/bundestags-untersuchungsausschuss-brei...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Die Grünen: &quot;Die junge Frau Baerbock verhandelt Europa&quot;\" data-src=\"https://img.zeit.de/politik/deutschland/2018-03/annalena-baerbock-buendnis-90-die-gruenen/wide\" data-ratio=\"1.77777777778\" sr...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1524,7 +1524,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Anschlag auf den Berliner Weihnachtsmarkt - Ausschuss will auch mit Angehörigen der Opfer sprechen\" href=\"http://www.zeit.de/politik/deutschland/2018-02/anschlag-berliner-weihnachtsmarkt-bundestagsuntersu...",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Die Grünen - &quot;Die junge Frau Baerbock verhandelt Europa&quot;\" href=\"http://www.zeit.de/politik/deutschland/2018-03/gruenen-annalena-baerbock-vorsitzende-weltfrauentag-sexismus\">\n                    ...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1540,7 +1540,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-02/anschlag-berliner-weihnachtsmarkt-bundestagsuntersuchungsausschuss-angehoerige-gespraech#comments\" data-ct-label=\"comments\" title=\"Komme...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/gruenen-annalena-baerbock-vorsitzende-weltfrauentag-sexismus#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">627 Kommenta...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1556,7 +1556,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.H30.2",
-            "context": "<a class=\"\" title=\"Balkan - EU verlangt Grenzabkommen vom Kosovo\" href=\"http://www.zeit.de/politik/ausland/2018-02/europaeische-union-kosovo-jean-claude-juncker-grenzabkommen-montenegro\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Jean-Claude Juncker - Polen verteidigt seine Justizreform in Brüssel\" href=\"http://www.zeit.de/politik/ausland/2018-03/jean-claude-juncker-polen-verteidigt-justizreform-mateusz-morawiecki\">\n                        <img c...</a>",
             "message": "Img element is the only content of the link, but is missing alt text. The alt text should describe the purpose of the link.",
             "type": "error",
             "typeCode": 1,
@@ -1564,7 +1564,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Balkan - EU verlangt Grenzabkommen vom Kosovo\" href=\"http://www.zeit.de/politik/ausland/2018-02/europaeische-union-kosovo-jean-claude-juncker-grenzabkommen-montenegro\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Jean-Claude Juncker - Polen verteidigt seine Justizreform in Brüssel\" href=\"http://www.zeit.de/politik/ausland/2018-03/jean-claude-juncker-polen-verteidigt-justizreform-mateusz-morawiecki\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1572,7 +1572,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Balkan: EU verlangt Grenzabkommen vom Kosovo\" data-src=\"https://img.zeit.de/politik/ausland/2018-02/europaeische-union-kosovo/wide\" data-ratio=\"1.77777777778\" width=\"150\" height=\"84\" src=\"data:image/gif...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Jean-Claude Juncker: Polen verteidigt seine Justizreform in Brüssel\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/jean-claude-juncker/wide\" data-ratio=\"1.77777777778\" width=\"150\" height=\"84\" sr...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1580,7 +1580,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Balkan - EU verlangt Grenzabkommen vom Kosovo\" href=\"http://www.zeit.de/politik/ausland/2018-02/europaeische-union-kosovo-jean-claude-juncker-grenzabkommen-montenegro\">\n                              ...</...",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Jean-Claude Juncker - Polen verteidigt seine Justizreform in Brüssel\" href=\"http://www.zeit.de/politik/ausland/2018-03/jean-claude-juncker-polen-verteidigt-justizreform-mateusz-morawiecki\">\n              ...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1596,7 +1596,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-02/europaeische-union-kosovo-jean-claude-juncker-grenzabkommen-montenegro#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">45 Kom...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/jean-claude-juncker-polen-verteidigt-justizreform-mateusz-morawiecki#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">141 Komm...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1604,7 +1604,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.H30.2",
-            "context": "<a class=\"\" title=\"Hope Hicks - Trumps Kommunikationschefin tritt zurück\" href=\"http://www.zeit.de/politik/ausland/2018-02/hope-hicks-kommunikationschefin-donald-trump-ruecktritt-usa\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Andrzej Duda - Polens Präsident bittet vertriebene Juden um Verzeihung\" href=\"http://www.zeit.de/politik/ausland/2018-03/andrzej-duda-polen-entschuldigung-juden-kampagne\">\n                        <img c...</a>",
             "message": "Img element is the only content of the link, but is missing alt text. The alt text should describe the purpose of the link.",
             "type": "error",
             "typeCode": 1,
@@ -1612,7 +1612,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Hope Hicks - Trumps Kommunikationschefin tritt zurück\" href=\"http://www.zeit.de/politik/ausland/2018-02/hope-hicks-kommunikationschefin-donald-trump-ruecktritt-usa\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Andrzej Duda - Polens Präsident bittet vertriebene Juden um Verzeihung\" href=\"http://www.zeit.de/politik/ausland/2018-03/andrzej-duda-polen-entschuldigung-juden-kampagne\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1620,7 +1620,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Hope Hicks: Trumps Kommunikationschefin tritt zurück\" data-src=\"https://img.zeit.de/politik/ausland/2018-02/usa-hope-hicks/wide\" data-ratio=\"1.77777777778\" width=\"150\" height=\"84\" src=\"data:image/gif;ba...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Andrzej Duda: Polens Präsident bittet vertriebene Juden um Verzeihung\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/andrzej-duda/wide\" data-ratio=\"1.77777777778\" width=\"150\" height=\"84\" src=\"da...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1628,7 +1628,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Hope Hicks - Trumps Kommunikationschefin tritt zurück\" href=\"http://www.zeit.de/politik/ausland/2018-02/hope-hicks-kommunikationschefin-donald-trump-ruecktritt-usa\">\n                              ...</a>",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Andrzej Duda - Polens Präsident bittet vertriebene Juden um Verzeihung\" href=\"http://www.zeit.de/politik/ausland/2018-03/andrzej-duda-polen-entschuldigung-juden-kampagne\">\n                              .....",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1644,7 +1644,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-02/hope-hicks-kommunikationschefin-donald-trump-ruecktritt-usa#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">273 Kommentare</a>",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-03/andrzej-duda-polen-entschuldigung-juden-kampagne#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">96 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1652,7 +1652,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.H30.2",
-            "context": "<a class=\"\" title=\"Brexit - Großbritannien macht Zugeständnisse an EU-Bürger\" href=\"http://www.zeit.de/politik/ausland/2018-02/brexit-grossbritannien-vorschlaege-eu-buerger-rechte-uebergangsphase\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Nordkorea - Es gibt so etwas wie einen Helden\" href=\"http://www.zeit.de/2018/11/nordkorea-usa-kim-jong-un-donald-trump-beziehungen\">\n                        <img c...</a>",
             "message": "Img element is the only content of the link, but is missing alt text. The alt text should describe the purpose of the link.",
             "type": "error",
             "typeCode": 1,
@@ -1660,7 +1660,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Brexit - Großbritannien macht Zugeständnisse an EU-Bürger\" href=\"http://www.zeit.de/politik/ausland/2018-02/brexit-grossbritannien-vorschlaege-eu-buerger-rechte-uebergangsphase\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Nordkorea - Es gibt so etwas wie einen Helden\" href=\"http://www.zeit.de/2018/11/nordkorea-usa-kim-jong-un-donald-trump-beziehungen\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1668,7 +1668,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Brexit: Großbritannien macht Zugeständnisse an EU-Bürger\" data-src=\"https://img.zeit.de/politik/ausland/2018-02/brexit-grossbritannien-vorschlaege/wide\" data-ratio=\"1.77777777778\" width=\"150\" height=\"84...",
+            "context": "<img class=\"teaser-small__media-item\" data-alt=\"Nordkorea: Es gibt so etwas wie einen Helden\" data-src=\"https://img.zeit.de/politik/ausland/2018-03/nordkorea-usa-kim-jong-un-donald-trump-beziehungen-diplomatie/wide\" data-ratio=\"1.77777777778\" width=\"...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1676,7 +1676,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__combined-link\" title=\"Brexit - Großbritannien macht Zugeständnisse an EU-Bürger\" href=\"http://www.zeit.de/politik/ausland/2018-02/brexit-grossbritannien-vorschlaege-eu-buerger-rechte-uebergangsphase\">\n                         ...",
+            "context": "<a class=\"teaser-small__combined-link\" title=\"Nordkorea - Es gibt so etwas wie einen Helden\" href=\"http://www.zeit.de/2018/11/nordkorea-usa-kim-jong-un-donald-trump-beziehungen\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1692,7 +1692,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-02/brexit-grossbritannien-vorschlaege-eu-buerger-rechte-uebergangsphase#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">135 Komm...",
+            "context": "<a class=\"teaser-small__commentcount js-update-commentcount\" href=\"http://www.zeit.de/2018/11/nordkorea-usa-kim-jong-un-donald-trump-beziehungen#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">28 Kommentare</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1700,7 +1700,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.H30.2",
-            "context": "<a class=\"\" title=\"Nordkorea - Trump und die ominöse &quot;Phase zwei&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-02/nordkorea-beziehung-usa-donald-trump-phase-zwei-5vor8\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Einwanderung - Das passt auf keinen Bierdeckel\" href=\"http://www.zeit.de/politik/deutschland/2018-03/einwanderungsgesetz-parteien-erwartungen-5vor8\">\n                        <img c...</a>",
             "message": "Img element is the only content of the link, but is missing alt text. The alt text should describe the purpose of the link.",
             "type": "error",
             "typeCode": 1,
@@ -1708,7 +1708,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"\" title=\"Nordkorea - Trump und die ominöse &quot;Phase zwei&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-02/nordkorea-beziehung-usa-donald-trump-phase-zwei-5vor8\">\n                        <img c...</a>",
+            "context": "<a class=\"\" title=\"Einwanderung - Das passt auf keinen Bierdeckel\" href=\"http://www.zeit.de/politik/deutschland/2018-03/einwanderungsgesetz-parteien-erwartungen-5vor8\">\n                        <img c...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1716,7 +1716,7 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_1.1_1_1.G73,G74",
-            "context": "<img class=\"teaser-small-column-parquet__media-item\" data-alt=\"Matthias Naß\" data-src=\"https://img.zeit.de/autoren/N/Matthias_Nass/matthias-nass-4/square\" data-ratio=\"1.0\" width=\"85\" height=\"85\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5...",
+            "context": "<img class=\"teaser-small-column-parquet__media-item\" data-alt=\"Lenz Jacobsen\" data-src=\"https://img.zeit.de/autoren/J/Lenz_Jacobsen/lenz-jacobsen/square\" data-ratio=\"1.0\" width=\"85\" height=\"85\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5B...",
             "message": "If this image cannot be fully described in a short text alternative, ensure a long text alternative is also available, such as in the body text or through a link.",
             "type": "notice",
             "typeCode": 3,
@@ -1724,7 +1724,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small-column-parquet__combined-link\" title=\"Nordkorea - Trump und die ominöse &quot;Phase zwei&quot;\" href=\"http://www.zeit.de/politik/ausland/2018-02/nordkorea-beziehung-usa-donald-trump-phase-zwei-5vor8\">\n                          ...",
+            "context": "<a class=\"teaser-small-column-parquet__combined-link\" title=\"Einwanderung - Das passt auf keinen Bierdeckel\" href=\"http://www.zeit.de/politik/deutschland/2018-03/einwanderungsgesetz-parteien-erwartungen-5vor8\">\n                              ...</a>",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1740,7 +1740,7 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_4.H77,H78,H79,H80,H81,H33",
-            "context": "<a class=\"teaser-small-column-parquet__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/ausland/2018-02/nordkorea-beziehung-usa-donald-trump-phase-zwei-5vor8#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">67 Komme...",
+            "context": "<a class=\"teaser-small-column-parquet__commentcount js-update-commentcount\" href=\"http://www.zeit.de/politik/deutschland/2018-03/einwanderungsgesetz-parteien-erwartungen-5vor8#comments\" data-ct-label=\"comments\" title=\"Kommentare anzeigen\">383 Komment...",
             "message": "Check that the link text combined with programmatically determined link context, or its title attribute, identifies the purpose of the link.",
             "type": "notice",
             "typeCode": 3,
@@ -1988,15 +1988,15 @@
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3_F24.F24.FGColour",
-            "context": "<div style=\"color:#000000;width:130px;height:20px;border-radius:10px 10px;background-color:#FFF;font-family:verdana;font-size:12px;font-weight:bold;padding:12px 18px 10px 40px;border:1px solid #EF9125;box-sizing:content-box;\">CrID:&nbsp;103541424565 ...",
+            "context": "<div style=\"color:#000000;width:130px;height:20px;border-radius:10px 10px;background-color:#FFF;font-family:verdana;font-size:12px;font-weight:bold;padding:12px 18px 10px 40px;border:1px solid #EF9125;box-sizing:content-box;\">CrID:&nbsp;138209646484 ...",
             "message": "Check that this element has an inherited background colour or image to complement the corresponding inline foreground colour.",
             "type": "warning",
             "typeCode": 2,
-            "selector": "#crInfoLoc1718117864 > div > div:nth-child(2)"
+            "selector": "#crInfoLoc192370681 > div > div:nth-child(2)"
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.2",
-            "context": "<iframe id=\"google_ads_iframe_/183/zeitonline/politik/index_2\" title=\"3rd party ad content\" name=\"google_ads_iframe_/183/zeitonline/politik/index_2\" width=\"728\" height=\"90\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" srcdoc=\"\" sty...",
+            "context": "<iframe id=\"google_ads_iframe_/183/zeitonline/politik/index_2\" title=\"3rd party ad content\" name=\"google_ads_iframe_/183/zeitonline/politik/index_2\" width=\"1000\" height=\"100\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" srcdoc=\"\" s...",
             "message": "Check that the title attribute of this element contains text that identifies the frame.",
             "type": "notice",
             "typeCode": 3,
@@ -2363,14 +2363,6 @@
             "selector": "html > body > div:nth-child(6) > div:nth-child(2) > footer > div > div:nth-child(2) > div:nth-child(3) > a"
         },
         {
-            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.1",
-            "context": "<iframe id=\"23f81f0c46b6e4f\" height=\"0\" width=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html\" style=\"border: 0px; display: none;\"></iframe>",
-            "message": "Iframe element requires a non-empty title attribute that identifies the frame.",
-            "type": "error",
-            "typeCode": 1,
-            "selector": "#23f81f0c46b6e4f"
-        },
-        {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.2",
             "context": "<iframe sandbox=\"allow-scripts allow-same-origin\" title=\"Adobe ID Syncing iFrame\" id=\"destination_publishing_iframe_iqdigital_0\" src=\"http://fast.iqdigital.demdex.net/dest5.html?d_nsid=0#http%3A%2F%2Fwww.zeit.de%2Fpolitik%2Findex\" style=\"display: non...",
             "message": "Check that the title attribute of this element contains text that identifies the frame.",
@@ -2380,19 +2372,19 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.1",
+            "context": "<iframe id=\"235955c8fb81f72\" height=\"0\" width=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html\" style=\"border: 0px; display: none;\"></iframe>",
+            "message": "Iframe element requires a non-empty title attribute that identifies the frame.",
+            "type": "error",
+            "typeCode": 1,
+            "selector": "#235955c8fb81f72"
+        },
+        {
+            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.1",
             "context": "<iframe src=\"http://adstax-match.adrtx.net/activation?receiverId=adaud\" width=\"0\" height=\"0\" frameborder=\"0\" id=\"adrtx_tag\" hidden=\"\" style=\"position: absolute; top: -99999px;\"></iframe>",
             "message": "Iframe element requires a non-empty title attribute that identifies the frame.",
             "type": "error",
             "typeCode": 1,
             "selector": "#adrtx_tag"
-        },
-        {
-            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.1",
-            "context": "<iframe id=\"rdr_495_1429\" src=\"//dmp.theadex.com/r/495/1429/?c=1001716351746030087\" style=\"height: 1px; width: 1px; border: none; position: absolute; top: -100px; left: -100px; z-index: -5;\"></iframe>",
-            "message": "Iframe element requires a non-empty title attribute that identifies the frame.",
-            "type": "error",
-            "typeCode": 1,
-            "selector": "#rdr_495_1429"
         },
         {
             "code": "WCAG2AA.Principle1.Guideline1_4.1_4_3_F24.F24.FGColour",
@@ -2444,11 +2436,19 @@
         },
         {
             "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.1",
-            "context": "<iframe id=\"google_osd_static_frame_3159981733611\" name=\"google_osd_static_frame\" style=\"display: none; width: 0px; height: 0px;\"></iframe>",
+            "context": "<iframe id=\"rdr_495_1429\" src=\"//dmp.theadex.com/r/495/1429/?c=1001516431444240011\" style=\"height: 1px; width: 1px; border: none; position: absolute; top: -100px; left: -100px; z-index: -5;\"></iframe>",
             "message": "Iframe element requires a non-empty title attribute that identifies the frame.",
             "type": "error",
             "typeCode": 1,
-            "selector": "#google_osd_static_frame_3159981733611"
+            "selector": "#rdr_495_1429"
+        },
+        {
+            "code": "WCAG2AA.Principle2.Guideline2_4.2_4_1.H64.1",
+            "context": "<iframe id=\"google_osd_static_frame_7526028019408\" name=\"google_osd_static_frame\" style=\"display: none; width: 0px; height: 0px;\"></iframe>",
+            "message": "Iframe element requires a non-empty title attribute that identifies the frame.",
+            "type": "error",
+            "typeCode": 1,
+            "selector": "#google_osd_static_frame_7526028019408"
         }
     ]
 }
