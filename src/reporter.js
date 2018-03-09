@@ -39,7 +39,21 @@ exports.topIssuesPerGuideline = (results, top) => {
     return a[1] < b[1] // sort by guidline occurence
   })
 
-  return new Map(sortedGuidelines.slice(0, top))
+  // return new Map(sortedGuidelines.slice(0, top))
+
+  // via http://2ality.com/2015/08/es6-map-json.html
+  function strMapToObj (strMap) {
+    let obj = Object.create(null)
+    for (let [k, v] of strMap) {
+      // We don’t escape the key '__proto__'
+      // which can cause problems on older engines
+      obj[k] = v
+    }
+    return obj
+  }
+
+  const strMap = new Map(sortedGuidelines.slice(0, top))
+  return strMapToObj(strMap)
 }
 
 /**
