@@ -1,0 +1,19 @@
+{
+    "kind": "Service",
+    "apiVersion": "v1",
+    "metadata": {
+      "name": "hangman-service"
+    },
+    "spec": {
+      "selector": {
+        "app": "hangman"
+      },
+      "ports": [
+        {
+          "protocol": "TCP",
+          "port": 80,
+          "targetPort": 8080
+        }
+      ]
+    }
+  }

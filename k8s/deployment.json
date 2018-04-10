@@ -1,0 +1,38 @@
+{
+  "apiVersion": "apps/v1beta2",
+  "kind": "Deployment",
+  "metadata": {
+    "name": "hangman-deployment",
+    "labels": {
+      "app": "hangman"
+    }
+  },
+  "spec": {
+    "replicas": 5,
+    "selector": {
+      "matchLabels": {
+        "app": "hangman"
+      }
+    },
+    "template": {
+      "metadata": {
+        "labels": {
+          "app": "hangman"
+        }
+      },
+      "spec": {
+        "containers": [
+          {
+            "name": "hangman",
+            "image": "registry.k8s.zeit.de/hangman:v0.1",
+            "ports": [
+              {
+                "containerPort": 8080
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

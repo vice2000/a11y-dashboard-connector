@@ -1,0 +1,31 @@
+{
+    "apiVersion": "extensions/v1beta1",
+    "kind": "Ingress",
+    "metadata": {
+      "name": "hangman",
+      "namespace": "default",
+      "labels": {
+        "zon-ingress-type": "internal"
+      },
+      "annotations": {
+        "traefik.frontend.entryPoints": "https"
+      }
+    },
+    "spec": {
+      "rules": [
+        {
+          "host": "hangman.k8s.zeit.de",
+          "http": {
+            "paths": [
+              {
+                "backend": {
+                  "serviceName": "hangman-service",
+                  "servicePort": 80
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
