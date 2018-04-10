@@ -1,0 +1,7 @@
+k8s/
+node_modules/
+README.md
+npm-debug.log
+Makefile
+report_*.json
+yarn.lock
